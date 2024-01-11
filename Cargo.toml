@@ -1,4 +1,7 @@
 [workspace]
 members = [
-    "easy/solve-me-first"
+    "easy/solve-me-first",
+    "easy/simple-array-sum"
 ]
+
+resolver = "2"
