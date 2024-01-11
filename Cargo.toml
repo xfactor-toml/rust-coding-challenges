@@ -4,7 +4,8 @@ members = [
     "easy/simple-array-sum",
     "easy/compare-the-triplets",
 
-    "medium/magic-square-forming"
+    "medium/magic-square-forming",
+    "medium/climbing-the-leaderboard",
 ]
 
 resolver = "2"
