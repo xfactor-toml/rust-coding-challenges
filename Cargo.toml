@@ -2,7 +2,9 @@
 members = [
     "easy/solve-me-first",
     "easy/simple-array-sum",
-    "easy/compare-the-triplets"
+    "easy/compare-the-triplets",
+
+    "medium/magic-square-forming"
 ]
 
 resolver = "2"
