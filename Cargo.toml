@@ -6,6 +6,7 @@ members = [
 
     "medium/magic-square-forming",
     "medium/climbing-the-leaderboard",
+    "medium/extra-long-factorials",
 ]
 
 resolver = "2"
