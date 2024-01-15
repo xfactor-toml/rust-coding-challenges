@@ -7,6 +7,7 @@ members = [
     "medium/magic-square-forming",
     "medium/climbing-the-leaderboard",
     "medium/extra-long-factorials",
+    "medium/non-divisible-subset",
 ]
 
 resolver = "2"
