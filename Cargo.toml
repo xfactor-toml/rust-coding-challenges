@@ -9,6 +9,7 @@ members = [
     "medium/extra-long-factorials",
     "medium/non-divisible-subset",
     "medium/queens-attack2",
+    "medium/the-time-in-words",
 ]
 
 resolver = "2"

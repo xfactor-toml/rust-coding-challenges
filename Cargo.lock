@@ -33,3 +33,7 @@ version = "0.1.0"
 [[package]]
 name = "solve-me-first"
 version = "0.1.0"
+
+[[package]]
+name = "the-time-in-words"
+version = "0.1.0"

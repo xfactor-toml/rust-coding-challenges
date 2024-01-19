@@ -8,6 +8,7 @@
 3. [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true)
 4. [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem?isFullScreen=true)
 5. [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true)
+6. [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true)
 
 ## Easy
 1. [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
