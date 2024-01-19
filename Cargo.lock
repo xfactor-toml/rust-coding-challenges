@@ -23,6 +23,10 @@ name = "non-divisible-subset"
 version = "0.1.0"
 
 [[package]]
+name = "queens-attack2"
+version = "0.1.0"
+
+[[package]]
 name = "simple-array-sum"
 version = "0.1.0"
 

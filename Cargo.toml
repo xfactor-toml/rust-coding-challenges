@@ -8,6 +8,7 @@ members = [
     "medium/climbing-the-leaderboard",
     "medium/extra-long-factorials",
     "medium/non-divisible-subset",
+    "medium/queens-attack2",
 ]
 
 resolver = "2"
