@@ -10,6 +10,8 @@ members = [
     "medium/non-divisible-subset",
     "medium/queens-attack2",
     "medium/the-time-in-words",
+
+    "hard/matrix-rotation-algo",
 ]
 
 resolver = "2"
