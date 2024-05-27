@@ -12,7 +12,7 @@ members = [
     "medium/queens-attack2",
     "medium/the-time-in-words",
 
-    "hard/matrix-rotation-algo", "easy/a-very-big-sum",
+    "hard/matrix-rotation-algo",
 ]
 
 resolver = "2"
