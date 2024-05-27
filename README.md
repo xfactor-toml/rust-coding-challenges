@@ -1,6 +1,8 @@
 # Hackerrank Coding Challenges with Rust
 
 ## Hard
+1. [Matrix Rotation Algo](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem?isFullScreen=true)
+
 
 ## Medium
 1. [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming?isFullScreen=true)
