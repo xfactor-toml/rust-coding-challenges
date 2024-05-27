@@ -3,6 +3,7 @@ members = [
     "easy/solve-me-first",
     "easy/simple-array-sum",
     "easy/compare-the-triplets",
+    "easy/a-very-big-sum",
 
     "medium/magic-square-forming",
     "medium/climbing-the-leaderboard",
@@ -11,7 +12,7 @@ members = [
     "medium/queens-attack2",
     "medium/the-time-in-words",
 
-    "hard/matrix-rotation-algo",
+    "hard/matrix-rotation-algo", "easy/a-very-big-sum",
 ]
 
 resolver = "2"
