@@ -3,6 +3,7 @@ members = [
     "easy/solve-me-first",
     "easy/simple-array-sum",
     "easy/compare-the-triplets",
+    "easy/a-very-big-sum",
 
     "medium/magic-square-forming",
     "medium/climbing-the-leaderboard",
