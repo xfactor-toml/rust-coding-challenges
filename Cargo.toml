@@ -12,6 +12,7 @@ members = [
     "medium/queens-attack2",
     "medium/the-time-in-words",
     "medium/bigger-is-greater",
+    "medium/threed-surface-area",
 
     "hard/matrix-rotation-algo"
 ]

@@ -12,6 +12,7 @@
 5. [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true)
 6. [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true)
 7. [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true)
+8. [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area/problem?isFullScreen=true)
 
 ## Easy
 1. [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
