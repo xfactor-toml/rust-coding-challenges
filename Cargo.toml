@@ -13,6 +13,7 @@ members = [
     "medium/the-time-in-words",
     "medium/bigger-is-greater",
     "medium/threed-surface-area",
+    "medium/bear-and-steady-gene",
 
     "hard/matrix-rotation-algo"
 ]
