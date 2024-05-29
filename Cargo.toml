@@ -15,7 +15,8 @@ members = [
     "medium/threed-surface-area",
     "medium/bear-and-steady-gene",
 
-    "hard/matrix-rotation-algo"
+    "hard/matrix-rotation-algo",
+    "hard/morgan-and-string"
 ]
 
 resolver = "2"
