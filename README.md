@@ -1,8 +1,10 @@
 # Hackerrank Coding Challenges with Rust
 
+> **Hackerrank has around 3 levels of difficulty: Easy, Medium(Intermediate), Hard(Advanced, Expert)**
+
+
 ## Hard
 1. [Matrix Rotation Algo](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem?isFullScreen=true)
-
 
 ## Medium
 1. [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming?isFullScreen=true)
@@ -20,3 +22,8 @@
 2. [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)
 3. [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
 4. [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)
+
+---
+## Contribution Guide
+1. Fork this repo, contribute and then send Pull Request.
+2. Every solution should be written in Rust and involving README.md for algorithm explanation.
