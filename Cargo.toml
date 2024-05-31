@@ -15,6 +15,7 @@ members = [
     "medium/threed-surface-area",
     "medium/bear-and-steady-gene",
     "medium/minimum-loss",
+    "medium/connected-cell-in-grid",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string"
