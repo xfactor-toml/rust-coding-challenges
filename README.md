@@ -19,6 +19,7 @@
 9. [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem?isFullScreen=true)
 10. [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss/problem?isFullScreen=true)
 11. [Connected Cell in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem?isFullScreen=true)
+12. [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome/problem?isFullScreen=true)
 
 ## Easy
 1. [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
