@@ -16,6 +16,7 @@ members = [
     "medium/bear-and-steady-gene",
     "medium/minimum-loss",
     "medium/connected-cell-in-grid",
+    "medium/short-palindrome",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string"
