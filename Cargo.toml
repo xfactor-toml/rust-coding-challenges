@@ -20,7 +20,8 @@ members = [
     "medium/gena-playing-hanoi",
 
     "hard/matrix-rotation-algo",
-    "hard/morgan-and-string"
+    "hard/morgan-and-string",
+    "hard/bead-ornaments"
 ]
 
 resolver = "2"
