@@ -17,6 +17,7 @@ members = [
     "medium/minimum-loss",
     "medium/connected-cell-in-grid",
     "medium/short-palindrome",
+    "medium/gena-playing-hanoi",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string"
