@@ -22,6 +22,7 @@
 11. [Connected Cell in a Grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid/problem?isFullScreen=true)
 12. [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome/problem?isFullScreen=true)
 13. [Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena/problem?isFullScreen=true)
+14. [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?isFullScreen=true)
 
 ## Easy
 1. [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
