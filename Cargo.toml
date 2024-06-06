@@ -18,6 +18,7 @@ members = [
     "medium/connected-cell-in-grid",
     "medium/short-palindrome",
     "medium/gena-playing-hanoi",
+    "medium/roads-and-libraries",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
