@@ -19,6 +19,7 @@ members = [
     "medium/short-palindrome",
     "medium/gena-playing-hanoi",
     "medium/roads-and-libraries",
+    "medium/journey-to-moon",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",

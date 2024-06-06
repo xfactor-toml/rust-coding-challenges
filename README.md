@@ -23,6 +23,7 @@
 12. [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome/problem?isFullScreen=true)
 13. [Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena/problem?isFullScreen=true)
 14. [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?isFullScreen=true)
+15. [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem?isFullScreen=true)
 
 ## Easy
 1. [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
