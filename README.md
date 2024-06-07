@@ -7,6 +7,7 @@
 1. [Matrix Rotation Algo](https://www.hackerrank.com/challenges/matrix-rotation-algo/problem?isFullScreen=true)
 2. [Morgan and a String](https://www.hackerrank.com/challenges/morgan-and-a-string/problem?isFullScreen=true)
 3. [Bead Ornaments](https://www.hackerrank.com/challenges/beadornaments/problem?isFullScreen=true)
+4. [String Similarity](https://www.hackerrank.com/challenges/string-similarity/problem?isFullScreen=true)
 
 ## Medium
 1. [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming?isFullScreen=true)

@@ -23,7 +23,8 @@ members = [
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
-    "hard/bead-ornaments"
+    "hard/bead-ornaments",
+    "hard/string-similarity"
 ]
 
 resolver = "2"
