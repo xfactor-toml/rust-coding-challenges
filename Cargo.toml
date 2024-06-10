@@ -20,6 +20,7 @@ members = [
     "medium/gena-playing-hanoi",
     "medium/roads-and-libraries",
     "medium/journey-to-moon",
+    "medium/really-special-subtree",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
