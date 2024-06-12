@@ -26,6 +26,7 @@
 14. [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development/problem?isFullScreen=true)
 15. [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon/problem?isFullScreen=true)
 16. [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub/problem?isFullScreen=true)
+17. [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up/problem?isFullScreen=true)
 
 ## Easy
 1. [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true)
