@@ -21,6 +21,7 @@ members = [
     "medium/roads-and-libraries",
     "medium/journey-to-moon",
     "medium/really-special-subtree",
+    "medium/snakes-and-ladders",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
