@@ -1,0 +1,1 @@
+[Solve Yourself Here](https://www.hackerrank.com/challenges/the-quickest-way-up/problem?isFullScreen=true)

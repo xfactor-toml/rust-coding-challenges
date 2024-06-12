@@ -1,0 +1,1 @@
+[Solve Yourself Here](https://www.hackerrank.com/challenges/queens-attack-2/problem?isFullScreen=true)

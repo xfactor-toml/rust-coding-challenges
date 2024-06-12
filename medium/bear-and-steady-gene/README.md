@@ -1,3 +1,5 @@
+[Solve Yourself Here](https://www.hackerrank.com/challenges/bear-and-steady-gene/problem?isFullScreen=true)
+
 To solve this problem, we first need to determine the occurrences of each letter in the given gene string.
 
 Then, we can use a sliding window approach to find the shortest substring that needs to be replaced.

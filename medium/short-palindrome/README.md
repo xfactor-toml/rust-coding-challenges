@@ -1,3 +1,5 @@
+[Solve Yourself Here](https://www.hackerrank.com/challenges/short-palindrome/problem?isFullScreen=true)
+
 Dynamic Planing
 
 Solves each sub-problem once and stores thre results in a table, thus avoiding recalculation of the answers.
