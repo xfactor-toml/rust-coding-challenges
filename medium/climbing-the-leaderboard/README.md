@@ -1,0 +1,1 @@
+[Solve Yourself Here](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem?isFullScreen=true)

@@ -1,3 +1,5 @@
+[Solve Yourself Here](https://www.hackerrank.com/challenges/3d-surface-area/problem?isFullScreen=true)
+
 For getting the surface area of the 3D shape, we can add the surface area contributed by each block. A block can be in a corner, side or in the middle ( surrounded by 4 blocks ).
 
 We can get the surface area contributed by a single bar from its height and the height of neighbouring blocks. For blocks in the corner or side, the height of the missing neighbouring block can be considered as 0.

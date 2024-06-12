@@ -1,3 +1,5 @@
+[Solve Yourself Here](https://www.hackerrank.com/challenges/minimum-loss/problem?isFullScreen=true)
+
 Intuition: if the prices are sorted, the minimum loss is given by two adjacent prices. We just need to check if the pair is “valid”, that is: if the sell price is actually following the purchase (the sell is in the future).
 
 Thus, we can duplicate our data and add an index for each price. The index is ascending and it just represents then history.

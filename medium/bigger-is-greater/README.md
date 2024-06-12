@@ -1,3 +1,5 @@
+[Solve Yourself Here](https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true)
+
 1. Find the largest index i such that the character at position i is smaller than the character at position i + 1.
 2. If no such index is found, the word is already the greatest possible, and we return “no answer”.
 3. Find the smallest index j > i such that the character at position j is greater than the character at position i.

@@ -7,3 +7,5 @@ This formula tells how many trees can be constructed with N vertices. It states 
 > Ask ChatGpt to see more detailed explanation about this solution
 
 Note: overflow of i32 * i32
+
+[Solve Yourself Here](https://www.hackerrank.com/challenges/beadornaments/problem?isFullScreen=true)
