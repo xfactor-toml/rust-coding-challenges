@@ -27,6 +27,7 @@
 15. [Journey to the Moon](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/journey-to-moon)
 16. [Kruskal (MST): Really Special Subtree](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/really-special-subtree)
 17. [Snakes and Ladders: The Quickest Way Up](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/snakes-and-ladders)
+18. [BFS: Shortest Reach](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/shortest-reach)
 
 ## Easy
 1. [Solve Me First](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/easy/solve-me-first)
