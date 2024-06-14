@@ -23,6 +23,7 @@ members = [
     "medium/really-special-subtree",
     "medium/snakes-and-ladders",
     "medium/shortest-reach",
+    "medium/special-subtree",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
