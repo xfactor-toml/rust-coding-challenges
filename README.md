@@ -29,6 +29,7 @@
 17. [Snakes and Ladders: The Quickest Way Up](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/snakes-and-ladders)
 18. [BFS: Shortest Reach](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/shortest-reach)
 19. [Prim's (MST): Special Subtree](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/special-subtree)
+20. [Larry's Array](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/larry-array)
 
 ## Easy
 1. [Solve Me First](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/easy/solve-me-first)
