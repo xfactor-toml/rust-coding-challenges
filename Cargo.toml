@@ -25,6 +25,7 @@ members = [
     "medium/shortest-reach",
     "medium/special-subtree",
     "medium/larry-array",
+    "medium/sherlock-and-anagrams",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
