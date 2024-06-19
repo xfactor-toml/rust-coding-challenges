@@ -27,6 +27,7 @@ members = [
     "medium/larry-array",
     "medium/sherlock-and-anagrams",
     "medium/coin-change",
+    "medium/pairs",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
