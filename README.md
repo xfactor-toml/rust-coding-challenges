@@ -31,6 +31,7 @@
 19. [Prim's (MST): Special Subtree](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/special-subtree)
 20. [Larry's Array](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/larry-array)
 21. [Sherlock and Anagrams](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/sherlock-and-anagrams)
+22. [The Coin Change Problem](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/coin-change)
 
 ## Easy
 1. [Solve Me First](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/easy/solve-me-first)
