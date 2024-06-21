@@ -28,6 +28,7 @@ members = [
     "medium/sherlock-and-anagrams",
     "medium/coin-change",
     "medium/pairs",
+    "medium/red-john-is-back",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
