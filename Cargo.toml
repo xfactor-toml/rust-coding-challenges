@@ -29,6 +29,7 @@ members = [
     "medium/coin-change",
     "medium/pairs",
     "medium/red-john-is-back",
+    "medium/stock-maximize",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
