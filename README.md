@@ -34,6 +34,7 @@
 22. [The Coin Change Problem](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/coin-change)
 23. [Pairs](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/pairs)
 24. [Red John is Back](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/red-john-is-back)
+25. [Stock Maximize](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/stock-maximize)
 
 ## Easy
 1. [Solve Me First](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/easy/solve-me-first)

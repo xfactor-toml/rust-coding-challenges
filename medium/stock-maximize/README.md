@@ -1,0 +1,1 @@
+[Solve Yourself Here](https://www.hackerrank.com/challenges/stockmax/problem?isFullScreen=true)
