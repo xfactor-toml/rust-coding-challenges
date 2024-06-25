@@ -30,6 +30,7 @@ members = [
     "medium/pairs",
     "medium/red-john-is-back",
     "medium/stock-maximize",
+    "medium/longest-common-subsequence",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
