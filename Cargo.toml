@@ -32,6 +32,7 @@ members = [
     "medium/stock-maximize",
     "medium/longest-common-subsequence",
     "medium/play-with-words",
+    "medium/unbounded-knapsack",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
