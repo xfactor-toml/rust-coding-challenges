@@ -36,6 +36,7 @@
 24. [Red John is Back](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/red-john-is-back)
 25. [Stock Maximize](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/stock-maximize)
 26. [The Longest Common Subsequence](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/longest-common-subsequence)
+27. [Play with words](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/play-with-words)
 
 ## Easy
 1. [Solve Me First](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/easy/solve-me-first)
