@@ -33,6 +33,7 @@ members = [
     "medium/longest-common-subsequence",
     "medium/play-with-words",
     "medium/unbounded-knapsack",
+    "medium/common-child",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
