@@ -38,6 +38,7 @@
 26. [The Longest Common Subsequence](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/longest-common-subsequence)
 27. [Play with words](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/play-with-words)
 28. [Knapsack](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/unbounded-knapsack)
+29. [Common Child](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/common-child)
 
 ## Easy
 1. [Solve Me First](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/easy/solve-me-first)
