@@ -35,6 +35,7 @@ members = [
     "medium/unbounded-knapsack",
     "medium/common-child",
     "medium/lego-blocks",
+    "medium/jack-goes-to-rapture",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
