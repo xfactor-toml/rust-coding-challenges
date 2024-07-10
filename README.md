@@ -40,6 +40,7 @@
 28. [Knapsack](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/unbounded-knapsack)
 29. [Common Child](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/common-child)
 30. [Lego Blocks](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/lego-blocks)
+31. [Abbreviation](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/medium/abbreviation)
 
 ## Easy
 1. [Solve Me First](https://github.com/xfactor-toml/rust-coding-challenges/tree/master/easy/solve-me-first)
