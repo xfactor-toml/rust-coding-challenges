@@ -36,6 +36,7 @@ members = [
     "medium/common-child",
     "medium/lego-blocks",
     "medium/abbreviation",
+    "medium/sam-substrings",
 
     "hard/matrix-rotation-algo",
     "hard/morgan-and-string",
